@@ -1,0 +1,12 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: praneethmittapalli172004@gmail.com
+    password: twzs pwam shbb ytlc
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true

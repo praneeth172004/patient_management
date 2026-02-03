@@ -1,0 +1,9 @@
+syntax="proto3";
+
+package notification.events;
+option java_package = "notification.events";
+option java_multiple_files=true;
+
+message NotificationEvent{
+  string email=1;
+}
